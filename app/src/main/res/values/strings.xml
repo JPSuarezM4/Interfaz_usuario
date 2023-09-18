@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mi Aplicación</string>
+    <string name="welcome_message">¡Bienvenido a mi aplicación!</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="btn_register">Registrarse</string>
+</resources>
